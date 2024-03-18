@@ -1,0 +1,120 @@
+[
+    {
+      "recipe_image": "image1.jpg",
+      "recipe_id": "001",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A classic Italian dish with a rich meat sauce",
+      "ingredients": [
+        "500g spaghetti",
+        "2 tbsp olive oil",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "500g ground beef",
+        "800g canned crushed tomatoes",
+        "1 tsp dried basil",
+        "1 tsp dried oregano",
+        "Salt and pepper to taste",
+        "Grated Parmesan cheese for serving"
+      ],
+      "preparing_time": "30 min",
+      "calories": "550 calories"
+    },
+    {
+      "recipe_image": "image2.jpg",
+      "recipe_id": "002",
+      "recipe_name": "Chicken Curry",
+      "short_description": "A flavorful and creamy chicken curry",
+      "ingredients": [
+        "550g chicken breast, cut into bite-sized pieces",
+        "2 tbsp vegetable oil",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 tbsp curry powder",
+        "1 tsp turmeric",
+        "1 tsp cumin",
+        "1 can coconut milk",
+        "Salt and pepper to taste",
+        "Fresh cilantro for serving"
+      ],
+      "preparing_time": "40 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "image3.jpg",
+      "recipe_id": "003",
+      "recipe_name": "Vegetable Stir Fry",
+      "short_description": "A quick and healthy stir frywith colorful vegetables",
+      "ingredients": [
+        "2 tbsp vegetable oil",
+        "1 bell pepper, sliced",
+        "1 carrot, sliced",
+        "1 zucchini, sliced",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "1 tbsp soy sauce",
+        "1 tbsp oyster sauce",
+        "Salt and pepper to taste",
+        "Sesame seeds for serving"
+      ],
+      "preparing_time": "20 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "image4.jpg",
+      "recipe_id": "004",
+      "recipe_name": "Beef Tacos",
+      "short_description": "Tasty and easy-to-make beef tacos",
+      "ingredients": [
+        "500g ground beef",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 packet taco seasoning",
+        "8 taco shells",
+        "Shredded lettuce",
+        "Diced tomatoes",
+        "Shredded cheese",
+        "Sour cream",
+        "Salsa"
+      ],
+      "preparing_time": "30 min",
+      "calories": "600 calories"
+    },
+    {
+      "recipe_image": "image5.jpg",
+      "recipe_id": "005",
+      "recipe_name": "Cheese and Vegetable Pizza",
+      "short_description": "A delicious and customizable pizza with vegetables and cheese",
+      "ingredients": [
+        "1 pre-made pizza crust",
+        "1 cup pizza sauce",
+        "2 cups shredded mozzarella cheese",
+        "1 bell pepper, sliced",
+        "1 onion, sliced",
+        "1 mushroom, sliced",
+        "Olive oil for brushing",
+        "Salt and pepper to taste",
+        "Fresh basil for serving"],
+      "preparing_time": "25 min",
+      "calories": "800 calories"
+    },
+    {
+      "recipe_image": "image6.jpg",
+      "recipe_id": "006",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Soft and chewy chocolate chip cookies",
+      "ingredients": [
+        "1 cup unsalted butter, softened",
+        "1 cup white sugar",
+        "1 cup packed brown sugar",
+        "2 eggs",
+        "2 tsp vanilla extract",
+        "3 cups all-purpose flour",
+        "1 tsp baking soda",
+        "2 tsp hot water",
+        "1/2 tsp salt",
+        "2 cups semisweet chocolate chips"
+      ],
+      "preparing_time": "20 min",
+      "calories": "350 calories"
+    }
+  ]
