@@ -7,7 +7,6 @@ function App() {
 
   return (
     <>
-    <h3>Hasib</h3>
       <Header></Header>
     </>
   )
