@@ -1,6 +1,6 @@
 [
     {
-      "recipe_image": "image1.jpg",
+      "recipe_image": "https://i.ibb.co/N373yfd/traditional-italian-spaghetti-bolognese-dark-background-135427-7276.jpg",
       "recipe_id": "001",
       "recipe_name": "Spaghetti Bolognese",
       "short_description": "A classic Italian dish with a rich meat sauce",
@@ -20,7 +20,7 @@
       "calories": "550 calories"
     },
     {
-      "recipe_image": "image2.jpg",
+      "recipe_image": "https://i.ibb.co/P1Hytnf/Chicken-Tikka-Masala-scaled.jpg",
       "recipe_id": "002",
       "recipe_name": "Chicken Curry",
       "short_description": "A flavorful and creamy chicken curry",
@@ -40,7 +40,7 @@
       "calories": "400 calories"
     },
     {
-      "recipe_image": "image3.jpg",
+      "recipe_image": "https://i.ibb.co/YQ1vx08/seared-broccolini-chili-hazelnuts-whipped-tahini-6-740x925.jpg",
       "recipe_id": "003",
       "recipe_name": "Vegetable Stir Fry",
       "short_description": "A quick and healthy stir frywith colorful vegetables",
@@ -60,7 +60,7 @@
       "calories": "250 calories"
     },
     {
-      "recipe_image": "image4.jpg",
+      "recipe_image": "https://i.ibb.co/GHjgwRX/low-histamine-diet-beef-tacos-recipe.png",
       "recipe_id": "004",
       "recipe_name": "Beef Tacos",
       "short_description": "Tasty and easy-to-make beef tacos",
@@ -80,7 +80,7 @@
       "calories": "600 calories"
     },
     {
-      "recipe_image": "image5.jpg",
+      "recipe_image": "https://i.ibb.co/wzNSZwX/BBQ-Chicken-Pita-Pizzas-13.jpg",
       "recipe_id": "005",
       "recipe_name": "Cheese and Vegetable Pizza",
       "short_description": "A delicious and customizable pizza with vegetables and cheese",
@@ -98,7 +98,7 @@
       "calories": "800 calories"
     },
     {
-      "recipe_image": "image6.jpg",
+      "recipe_image": "https://i.ibb.co/HFFp7KS/chocolate-chip-cookies.jpg",
       "recipe_id": "006",
       "recipe_name": "Chocolate Chip Cookies",
       "short_description": "Soft and chewy chocolate chip cookies",
