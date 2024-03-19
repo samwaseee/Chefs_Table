@@ -20,7 +20,7 @@ const Main = () => {
 
     const handleCooking = (cook,id) => {
         setCooking([...cooking,cook])
-        console.log(wantToCook);
+        console.log(cook);
         setWantToCook(wantToCook.filter(wantToCook => wantToCook.recipe_id !== id))
     }
 
